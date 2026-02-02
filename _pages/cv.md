@@ -16,7 +16,7 @@ Education
   * Research Focus: Autonomous Vehicle Test Case Optimization
   * GPA: 3.88/4.00
 
-* **MSE, Computer Science and Engineering**, University of Michigan, Dec 2025 (expected)
+* **MSE, Computer Science and Engineering**, University of Michigan, Dec 2025
   * GPA: 3.70/4.00
 
 * **MS, Naval Architecture and Marine Engineering**, University of Michigan, Dec 2023

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a second-year PhD student in Naval Architecture & Marine Engineering at the University of Michigan, also pursuing an MSE in Computer Science & Engineering. I'm currently researching search-based test case generation methods for autonomous systems, working to automate test coverage in CI/CD pipelines with minimal human intervention to make these systems safer, more reliable, and more accessible.
+Hi there! I'm a third-year PhD student in Naval Architecture & Marine Engineering at the University of Michigan, also pursuing an MSE in Computer Science & Engineering. I'm currently researching search-based test case generation methods for autonomous systems, working to automate test coverage in CI/CD pipelines with minimal human intervention to make these systems safer, more reliable, and more accessible.
 
 ## Research Focus
 
